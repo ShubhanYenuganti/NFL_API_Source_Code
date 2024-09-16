@@ -1,9 +1,11 @@
-# NFL_API_Source_Code
+# NFL_API
 
-An NFL API containing all 32 teams' starting rosters with basic information on each player
+Run npm init to start the project!
 
-Data parsed from espn.com
+A simple NFL API that contains basic information about the starting rosters of each NFL Team!
 
-Can be accessed at : (https://f2cd-2601-646-8500-f220-ec92-5634-15a6-16d7.ngrok.io) when server is running (url changes after each run)
+Create GET requests through the index.html page
 
-Made using json-server -- https://github.com/typicode/json-server
+Can request data from a player's name!
+Can request data from a group of players who have the same position!
+Can request data divided by teams, divisions or conferences!
